@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+// Código del alumno Emiliano Miño
+// link de GIT personal: https://github.com/emimino62
+// link del GIT grupal (lider Victor Maehara): https://github.com/vicmaeh/escuela-prueba
+// link del GIT del lider: https://github.com/vicmaeh
 // funcion para convertir centimetros a pulgadas
 float cm_a_pul(float cm) {
     return cm / 2.54;
