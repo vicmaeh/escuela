@@ -1,4 +1,8 @@
 #include <stdio.h>
+// Código del alumno Tobias Cespedes
+// Link de GIT personal: https://github.com/tobias28ti
+// Link del GIT grupal (lider Victor Maehara): https://github.com/vicmaeh/escuela-prueba
+
 
 // Procedimiento para repetir un texto una X cantidad de veces
 void repetir(char texto[], int veces) {
